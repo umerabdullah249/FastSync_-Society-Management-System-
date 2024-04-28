@@ -1,0 +1,107 @@
+C:\Users\pc\source\repos\FastSync1\bin\Debug\FastSync1.exe.config
+C:\Users\pc\source\repos\FastSync1\bin\Debug\FastSync1.exe
+C:\Users\pc\source\repos\FastSync1\bin\Debug\FastSync1.pdb
+C:\Users\pc\source\repos\FastSync1\obj\Debug\FastSync1.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\FastSync1\obj\Debug\FastSync1.HomePage.resources
+C:\Users\pc\source\repos\FastSync1\obj\Debug\FastSync1.Login.resources
+C:\Users\pc\source\repos\FastSync1\obj\Debug\FastSync1.Properties.Resources.resources
+C:\Users\pc\source\repos\FastSync1\obj\Debug\FastSync1.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\FastSync1\obj\Debug\FastSync1.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\FastSync1\obj\Debug\FastSync1.exe
+C:\Users\pc\source\repos\FastSync1\obj\Debug\FastSync1.pdb
+C:\Users\pc\source\repos\FastSync1\obj\Debug\form1.descriptionForm.resources
+C:\Users\pc\source\repos\FastSync1\obj\Debug\form1.ViewSocieties.resources
+C:\Users\pc\source\repos\FastSync1\obj\Debug\FastSync1.ViewEvents.resources
+C:\Users\pc\source\repos\FastSync1\obj\Debug\FastSync1.EventDetailsForm.resources
+C:\Users\DELL\Downloads\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\obj\Debug\FastSync1.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\obj\Debug\FastSync1.exe
+C:\Users\DELL\Downloads\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\obj\Debug\FastSync1.pdb
+C:\Users\DELL\source\repos\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\obj\Debug\FastSync1.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\obj\Debug\FastSync1.exe
+C:\Users\DELL\source\repos\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\obj\Debug\FastSync1.pdb
+C:\Users\DELL\source\repos\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\bin\Debug\FastSync1.exe.config
+C:\Users\DELL\source\repos\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\bin\Debug\FastSync1.exe
+C:\Users\DELL\source\repos\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\bin\Debug\FastSync1.pdb
+C:\Users\DELL\source\repos\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\obj\Debug\form1.descriptionForm.resources
+C:\Users\DELL\source\repos\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\obj\Debug\FastSync1.EventDetailsForm.resources
+C:\Users\DELL\source\repos\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\obj\Debug\form1.ViewSocieties.resources
+C:\Users\DELL\source\repos\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\obj\Debug\FastSync1.HomePage.resources
+C:\Users\DELL\source\repos\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\obj\Debug\FastSync1.Login.resources
+C:\Users\DELL\source\repos\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\obj\Debug\FastSync1.Properties.Resources.resources
+C:\Users\DELL\source\repos\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\obj\Debug\FastSync1.ViewEvents.resources
+C:\Users\DELL\source\repos\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\obj\Debug\FastSync1.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\obj\Debug\FastSync1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\obj\Debug\FastSync1.RegisterSociety.resources
+C:\Users\DELL\source\repos\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\obj\Debug\FastSync1.facultyhomepage.resources
+C:\Users\pc\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\obj\Debug\FastSync1.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\obj\Debug\FastSync1.exe
+C:\Users\pc\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\obj\Debug\FastSync1.pdb
+C:\Users\pc\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\obj\Debug\FastSync1.AdminHomePage.resources
+C:\Users\pc\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\obj\Debug\FastSync1.approveevent.resources
+C:\Users\pc\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\obj\Debug\FastSync1.ApproveSoc.resources
+C:\Users\pc\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\obj\Debug\form1.descriptionForm.resources
+C:\Users\pc\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\obj\Debug\FastSync1.EventDetailsForm.resources
+C:\Users\pc\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\obj\Debug\FastSync1.facultyhomepage.resources
+C:\Users\pc\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\obj\Debug\FastSync1.RegisterSociety.resources
+C:\Users\pc\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\obj\Debug\form1.ViewSocieties.resources
+C:\Users\pc\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\obj\Debug\FastSync1.studentHomepage.resources
+C:\Users\pc\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\obj\Debug\FastSync1.Login.resources
+C:\Users\pc\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\obj\Debug\FastSync1.Properties.Resources.resources
+C:\Users\pc\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\obj\Debug\FastSync1.ViewEvents.resources
+C:\Users\pc\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\obj\Debug\FastSync1.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\obj\Debug\FastSync1.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\bin\Debug\FastSync1.exe.config
+C:\Users\pc\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\bin\Debug\FastSync1.exe
+C:\Users\pc\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\bin\Debug\FastSync1.pdb
+C:\Users\pc\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\obj\Debug\FastSync1.RegisterEvent.resources
+C:\Users\azam shreef\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629) (3)\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629)\obj\Debug\FastSync1.csproj.AssemblyReference.cache
+C:\Users\azam shreef\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629) (3)\FastSync1\obj\Debug\FastSync1.csproj.AssemblyReference.cache
+C:\Users\azam shreef\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629) (3)\FastSync1\bin\Debug\FastSync1.exe.config
+C:\Users\azam shreef\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629) (3)\FastSync1\bin\Debug\FastSync1.exe
+C:\Users\azam shreef\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629) (3)\FastSync1\bin\Debug\FastSync1.pdb
+C:\Users\azam shreef\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629) (3)\FastSync1\obj\Debug\FastSync1.AdminHomePage.resources
+C:\Users\azam shreef\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629) (3)\FastSync1\obj\Debug\FastSync1.approveevent.resources
+C:\Users\azam shreef\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629) (3)\FastSync1\obj\Debug\FastSync1.ApproveSoc.resources
+C:\Users\azam shreef\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629) (3)\FastSync1\obj\Debug\form1.descriptionForm.resources
+C:\Users\azam shreef\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629) (3)\FastSync1\obj\Debug\FastSync1.EventDetailsForm.resources
+C:\Users\azam shreef\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629) (3)\FastSync1\obj\Debug\FastSync1.facultyhomepage.resources
+C:\Users\azam shreef\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629) (3)\FastSync1\obj\Debug\FastSync1.RegisterEvent.resources
+C:\Users\azam shreef\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629) (3)\FastSync1\obj\Debug\FastSync1.RegisterSociety.resources
+C:\Users\azam shreef\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629) (3)\FastSync1\obj\Debug\form1.ViewSocieties.resources
+C:\Users\azam shreef\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629) (3)\FastSync1\obj\Debug\FastSync1.Login.resources
+C:\Users\azam shreef\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629) (3)\FastSync1\obj\Debug\FastSync1.Properties.Resources.resources
+C:\Users\azam shreef\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629) (3)\FastSync1\obj\Debug\FastSync1.ViewEvents.resources
+C:\Users\azam shreef\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629) (3)\FastSync1\obj\Debug\FastSync1.csproj.GenerateResource.cache
+C:\Users\azam shreef\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629) (3)\FastSync1\obj\Debug\FastSync1.csproj.CoreCompileInputs.cache
+C:\Users\azam shreef\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629) (3)\FastSync1\obj\Debug\FastSync1.exe
+C:\Users\azam shreef\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629) (3)\FastSync1\obj\Debug\FastSync1.pdb
+C:\Users\azam shreef\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629) (3)\FastSync1\obj\Debug\FastSync1.AssignTasks.resources
+C:\Users\azam shreef\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629) (3)\FastSync1\obj\Debug\FastSync1.presidentHomepage.resources
+C:\Users\azam shreef\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629) (3)\FastSync1\obj\Debug\FastSync1.MemberHomePage.resources
+C:\Users\azam shreef\Desktop\FastSync_Umer(i210580)_Momina(i212521)_Nouman(i190629) (3)\FastSync1\obj\Debug\FastSync1.Tasks.resources
+C:\Users\pc\Downloads\FastSync1\FastSync1\obj\Debug\FastSync1.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\FastSync1\FastSync1\obj\Debug\FastSync1.exe
+C:\Users\pc\Downloads\FastSync1\FastSync1\obj\Debug\FastSync1.pdb
+C:\Users\pc\Downloads\FastSync1\FastSync1\bin\Debug\FastSync1.exe.config
+C:\Users\pc\Downloads\FastSync1\FastSync1\bin\Debug\FastSync1.exe
+C:\Users\pc\Downloads\FastSync1\FastSync1\bin\Debug\FastSync1.pdb
+C:\Users\pc\Downloads\FastSync1\FastSync1\obj\Debug\FastSync1.AdminHomePage.resources
+C:\Users\pc\Downloads\FastSync1\FastSync1\obj\Debug\FastSync1.approveevent.resources
+C:\Users\pc\Downloads\FastSync1\FastSync1\obj\Debug\FastSync1.ApproveSoc.resources
+C:\Users\pc\Downloads\FastSync1\FastSync1\obj\Debug\FastSync1.AssignTasks.resources
+C:\Users\pc\Downloads\FastSync1\FastSync1\obj\Debug\form1.descriptionForm.resources
+C:\Users\pc\Downloads\FastSync1\FastSync1\obj\Debug\FastSync1.EventDetailsForm.resources
+C:\Users\pc\Downloads\FastSync1\FastSync1\obj\Debug\FastSync1.facultyhomepage.resources
+C:\Users\pc\Downloads\FastSync1\FastSync1\obj\Debug\FastSync1.FeedbackForm.resources
+C:\Users\pc\Downloads\FastSync1\FastSync1\obj\Debug\FastSync1.FeedbackForm1.resources
+C:\Users\pc\Downloads\FastSync1\FastSync1\obj\Debug\FastSync1.MemberHomePage.resources
+C:\Users\pc\Downloads\FastSync1\FastSync1\obj\Debug\FastSync1.RegisterEvent.resources
+C:\Users\pc\Downloads\FastSync1\FastSync1\obj\Debug\FastSync1.RegisterSociety.resources
+C:\Users\pc\Downloads\FastSync1\FastSync1\obj\Debug\FastSync1.Tasks.resources
+C:\Users\pc\Downloads\FastSync1\FastSync1\obj\Debug\form1.ViewSocieties.resources
+C:\Users\pc\Downloads\FastSync1\FastSync1\obj\Debug\FastSync1.presidentHomepage.resources
+C:\Users\pc\Downloads\FastSync1\FastSync1\obj\Debug\FastSync1.Login.resources
+C:\Users\pc\Downloads\FastSync1\FastSync1\obj\Debug\FastSync1.Properties.Resources.resources
+C:\Users\pc\Downloads\FastSync1\FastSync1\obj\Debug\FastSync1.ViewEvents.resources
+C:\Users\pc\Downloads\FastSync1\FastSync1\obj\Debug\FastSync1.csproj.GenerateResource.cache
+C:\Users\pc\Downloads\FastSync1\FastSync1\obj\Debug\FastSync1.csproj.CoreCompileInputs.cache

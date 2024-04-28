@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2725DF53-2543-41C3-85FA-2C658F3FD349}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>FastSync1</RootNamespace>
+    <AssemblyName>FastSync1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\DELL\OneDrive\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="adminHomepage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminHomepage.Designer.cs">
+      <DependentUpon>adminHomepage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="approveevent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="approveevent.Designer.cs">
+      <DependentUpon>approveevent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ApproveSoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApproveSoc.Designer.cs">
+      <DependentUpon>ApproveSoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AssignTasks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AssignTasks.Designer.cs">
+      <DependentUpon>AssignTasks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="descriptionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="descriptionForm.Designer.cs">
+      <DependentUpon>descriptionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EventDetailsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EventDetailsForm.Designer.cs">
+      <DependentUpon>EventDetailsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="facultyhomepage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="facultyhomepage.Designer.cs">
+      <DependentUpon>facultyhomepage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FeedbackForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FeedbackForm.Designer.cs">
+      <DependentUpon>FeedbackForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FeedbackForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FeedbackForm1.Designer.cs">
+      <DependentUpon>FeedbackForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MemberHomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MemberHomePage.Designer.cs">
+      <DependentUpon>MemberHomePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegisterEvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisterEvent.Designer.cs">
+      <DependentUpon>RegisterEvent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegisterSociety.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisterSociety.Designer.cs">
+      <DependentUpon>RegisterSociety.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tasks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tasks.Designer.cs">
+      <DependentUpon>Tasks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewSocieties.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewSocieties.Designer.cs">
+      <DependentUpon>ViewSocieties.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="presidentHomepage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="presidentHomepage.Designer.cs">
+      <DependentUpon>presidentHomepage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ViewEvents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewEvents.Designer.cs">
+      <DependentUpon>ViewEvents.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="adminHomepage.resx">
+      <DependentUpon>adminHomepage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="approveevent.resx">
+      <DependentUpon>approveevent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ApproveSoc.resx">
+      <DependentUpon>ApproveSoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AssignTasks.resx">
+      <DependentUpon>AssignTasks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="descriptionForm.resx">
+      <DependentUpon>descriptionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EventDetailsForm.resx">
+      <DependentUpon>EventDetailsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="facultyhomepage.resx">
+      <DependentUpon>facultyhomepage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FeedbackForm.resx">
+      <DependentUpon>FeedbackForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FeedbackForm1.resx">
+      <DependentUpon>FeedbackForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MemberHomePage.resx">
+      <DependentUpon>MemberHomePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegisterEvent.resx">
+      <DependentUpon>RegisterEvent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegisterSociety.resx">
+      <DependentUpon>RegisterSociety.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tasks.resx">
+      <DependentUpon>Tasks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewSocieties.resx">
+      <DependentUpon>ViewSocieties.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="presidentHomepage.resx">
+      <DependentUpon>presidentHomepage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ViewEvents.resx">
+      <DependentUpon>ViewEvents.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="5166950.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
